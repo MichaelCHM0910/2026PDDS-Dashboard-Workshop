@@ -60,13 +60,19 @@ The database `BubbleTeaDB_2026.db` consists of the following core tables:
 
 ## 🚀 Environment Setup
 
-### 1. Clone the Repository & Navigate to Project
+### 1. Fork the Repository
+1. Navigate to the main repository on GitHub:  
+   `https://github.com/ppingchn/2026PDDS-Dashboard-Workshop`
+2. Click the **Fork** button in the top-right corner of the page to create a personal copy under your own GitHub account.
+
+### 2. Clone Your Forked Repository & Navigate to Project
+Clone your forked repository to your local computer (replace `<your-username>` with your GitHub username):
 ```bash
-git clone <repository-url>
+git clone https://github.com/<your-username>/2026PDDS-Dashboard-Workshop.git
 cd 2026PDDS-Dashboard-Workshop
 ```
 
-### 2. Create and Activate Virtual Environment
+### 3. Create and Activate Virtual Environment
 
 * **Windows (PowerShell):**
   ```powershell
@@ -87,7 +93,7 @@ cd 2026PDDS-Dashboard-Workshop
   source venv/bin/activate
   ```
 
-### 3. Install Dependencies
+### 4. Install Dependencies
 ```bash
 pip install -r requirements.txt
 ```
