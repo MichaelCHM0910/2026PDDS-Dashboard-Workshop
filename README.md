@@ -1,5 +1,7 @@
 # 2026 PDDS Dashboard Workshop: Bubble Tea Analytics
 
+**Live demo (Render):** https://bubble-tea-dashboard.onrender.com/
+
 Welcome to the **2026 PDDS Dashboard Workshop**! In this hands-on workshop, you will build an end-to-end interactive web analytics dashboard for a Bubble Tea business using **SQLite**, **Python**, **Pandas**, **Plotly**, and **Dash**.
 
 ---
